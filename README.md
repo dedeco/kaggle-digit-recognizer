@@ -1,1 +1,1 @@
-# kaggle-digit-recognizer
+#kernel to solve the Digit Recognizer - a basic example of machine learning
